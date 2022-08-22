@@ -1,0 +1,25 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.input{
+  height: 38px;
+  border-radius: 8px;
+  max-width: 300px;
+  width: 100%; 
+  margin: 24px 0px;
+  padding: 8px;
+  outline: none;
+  border: 1px solid #bcb;
+
+}
+
+.link {
+  font-family: sans-serif bold;
+  font-size: 24px;
+  color: #c3b;
+}
